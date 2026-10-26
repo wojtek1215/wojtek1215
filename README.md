@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Wojtek 👋
 
-<!--
-**wojtek1215/wojtek1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Analyst focused on product analytics, experimentation, and applied data science.
 
-Here are some ideas to get you started:
+I use SQL, Python, statistics and machine learning to turn complex product questions into measurable decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas I work on
+- Product analytics and KPI design
+- A/B testing and causal inference
+- Python, SQL and statistical modelling
+- AI-assisted analytics
+
+### Portfolio
+Projects covering product growth, experimentation and applied data science.
+
+### What I value
+Clear problem definitions, reproducible analysis, statistical rigour, and actionable recommendations.
+
+Better to be roughly right than precisely wrong
